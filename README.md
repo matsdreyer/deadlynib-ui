@@ -1,2 +1,2 @@
 # deadlynib ui
-Nib Ui is an external ElvUI plugin.
+deadlynib ui is an external ElvUI plugin.
